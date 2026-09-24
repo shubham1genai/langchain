@@ -38,6 +38,7 @@ e=50
 
 d=40
 
+name="pavan"
 print(final_chain.invoke({'topic':'Russia vs Ukraine'}))
 
 
