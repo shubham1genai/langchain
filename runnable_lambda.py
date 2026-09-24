@@ -53,3 +53,4 @@ line=47
 line=50
 line 51
 
+a="apple  line 56"
