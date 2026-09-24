@@ -31,9 +31,13 @@ final_chain = RunnableSequence(report_gen_chain, branch_chain)
 a=10
 b=20
 c=30
+
 c=40
 
 e=50
+
+d=40
+
 print(final_chain.invoke({'topic':'Russia vs Ukraine'}))
 
 
