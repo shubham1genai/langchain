@@ -40,8 +40,12 @@ d=40
 name="ashok"
 
 name="pavan"
+<<<<<<< HEAD
 
 b="changed by sg 9:25"
+=======
+a="changed by colleuge 9:24 "
+>>>>>>> 11722b89839e846b3eb374e657947a81c9fc0d06
 print(final_chain.invoke({'topic':'Russia vs Ukraine'}))
 
 
