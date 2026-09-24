@@ -32,6 +32,8 @@ a=10
 b=20
 c=30
 c=40
+
+e=50
 print(final_chain.invoke({'topic':'Russia vs Ukraine'}))
 
 
