@@ -28,7 +28,8 @@ branch_chain = RunnableBranch(
 )
 
 final_chain = RunnableSequence(report_gen_chain, branch_chain)
-
+a=10
+b=20
 print(final_chain.invoke({'topic':'Russia vs Ukraine'}))
 
 
