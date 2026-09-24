@@ -30,3 +30,5 @@ result = parallel_chain.invoke({'topic':'AI'})
 print(result['tweet'])
 print(result['linkedin'])
 
+name="ashok"
+
