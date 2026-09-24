@@ -40,6 +40,8 @@ d=40
 name="ashok"
 
 name="pavan"
+
+b="changed by sg 9:25"
 print(final_chain.invoke({'topic':'Russia vs Ukraine'}))
 
 
